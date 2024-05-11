@@ -1,0 +1,74 @@
+body {
+    height: 100vh;
+    margin: 0%;
+}
+
+.header {
+    background-color: #1F2937;
+    color: white;
+    padding: 0% 170px;
+    padding-bottom: 70px;
+}
+
+.head {
+  font-weight: bold;
+  display: flex;
+  padding: 16px 0%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.links {
+    display: flex;
+    gap: 10px;
+    font-size: small;
+    margin-left: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+
+.pecho {
+    display:flex;
+    margin: 70px 0%;
+    gap: 40px;
+  }
+
+  .presentacion {
+   flex: 1;
+  }
+
+  .imagen1 {
+   display: flex;
+   align-items:stretch;
+   justify-content:stretch
+   flex: 1;
+  }
+
+
+.presentacion h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin: 0%;
+}
+
+.presentacion p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0%;
+}
+
+.boton button {
+    margin-top: 8px;
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+    padding: 8px 26px;
+    border-radius: 8px;
+    border: 1px solid royalblue;
+    
+}
+
+
+
+
