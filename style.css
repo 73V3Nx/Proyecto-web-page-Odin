@@ -69,6 +69,37 @@ body {
     
 }
 
+<!--panza-->
 
+.panza {
+  background-color:  white;
+  
+  
+}
 
+.subtitle {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.one, .two, .three, .four {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 0 1 150px;
+}
+
+.text {
+    text-align: center;
+    width: 150px;
+}
 
